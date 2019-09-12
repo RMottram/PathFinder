@@ -266,3 +266,37 @@ E:\AI\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
 \\Mac\iCloud\University\Year 2\AI\Assessment 3\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
 \\Mac\iCloud\University\Year 2\AI\Assessment 3\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 \\Mac\iCloud\University\Year 2\AI\Assessment 3\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\0.txt
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\1.txt
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\2.txt
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\3.txt
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\4.txt
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\ai.xnb
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\target.xnb
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile1.xnb
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Content\tile2.xnb
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.exe
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\Pathfinder.pdb
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\MonoGame.Framework.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.XInput.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csproj.CopyComplete
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+\\Mac\Home\Documents\GitHub\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
